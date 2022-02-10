@@ -1,0 +1,95 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 10%;
+	
+  
+	
+}
+h1{
+	color: #4169E1;
+	text-align: center;
+
+}
+div{
+	padding-top: 10px;
+	padding-right: 30px;
+  	padding-bottom: 50px;
+  	padding-left: 80px;
+	text-size: 15px;
+}
+.under{
+	text-decoration: underline;
+}
+.heading2{
+	color: #41
+69E1;
+
+}
+.heading3{
+	text-align: center;
+	padding-bottom: 30px
+}
+.fname1{ 
+	display: inline-block; 
+	width: 400px; 
+	height: 30px;
+	
+}
+.fname{ 
+	padding-right: 30px;
+	 	
+}
+.spin1{
+	display: inline-block; 
+	width: 400px; 
+	height: 30px;
+	
+}
+.spin{
+	padding-right: 30px;	
+}
+.gender{
+	padding-right: 40px;	
+}
+.skill{
+	padding-right: 30px;	
+}
+.sub{
+	padding-right: 20px1
+}
+.study{
+	padding-right: 30px;
+}
+.field{
+	display: inline-block; 
+	width: 400px; 
+	height: 30px;
+	background-color: white;
+}
+
+
+.area{
+	padding-right: 30px;
+	
+}
+.text{
+     vertical-align: top;
+
+}
+.submit{
+	background-color: #6495ED;
+ 	border: none;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+	text-color: white;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+  	font-size: 16px;
+}
+
+
